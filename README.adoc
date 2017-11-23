@@ -1,0 +1,21 @@
+:toc: left
+:author: Kjell Morgenstern <kjell@gmx.de>
+
+
+image::doc/moggie_mounted.jpg[Mounted Moggie with Camera]
+
+== Done
+
+* Register DSMX
+* Steer motors via ESC
+* motor left right mixer
+* camera streaming
+* enable / disable camera
+* remotely camera pan tilt servo control
+* Arm / disarm via remote
+
+== Document History
+
+|===
+| v0.1 | 2017-11-21 | |
+|===
